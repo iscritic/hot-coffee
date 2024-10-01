@@ -1,0 +1,14 @@
+[
+  {
+    "order_id": "62a27797-02bd-450e-a975-baf0da7b3098",
+    "customer_name": "Jane Doe",
+    "items": [
+      {
+        "product_id": "americano",
+        "quantity": 1
+      }
+    ],
+    "status": "open",
+    "created_at": ""
+  }
+]
